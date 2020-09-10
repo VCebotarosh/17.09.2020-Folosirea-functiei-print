@@ -1,0 +1,3 @@
+print("Nume:\tCebotarosh\nPrenume:\tVladimir\nAdresa:\tstrada Decebal 33\nTelefon:\t068798976\nE-mail:\tafronisinpalanida@gmail.com\nNationalitate:\tRomana\nData_Nasterii:\t27.07.2003\nLimba_materna:\tRomana\nLimbi_straine:\tGermana,Engleza,Rusa\nCompetente_de_utilizare_a_calculatorului:\tPosed destul de bine programele ca word,excel,powerpoint,pdf si altele\nCompetente:\tVorbirea fluenta a limbilor straine,cunoasterea calculatorului\nInterese:\tInvatarea limbilor straine, chimiei, matematicii si a limbajelor de programare")
+#Toate datele indicate in acest CV sunt utilizate doar pentru demonstarea abilitatilor in programare
+#Toate datele nu sunta veridice si nu au  caracter personal
